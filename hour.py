@@ -1,4 +1,4 @@
-n2=int(input())
-hr=n//60
-m2=n2-(hr*60)
-print(hr,m2)
+a11=int(input())
+hour=a11//60
+m12=a11-(hour*60)
+print(hour,m12)
